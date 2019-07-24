@@ -5,3 +5,6 @@ p{
 body{
   background:linear-gradient(#05FBFF, #1E00FF);
 }
+html{
+  min-height: 100%;
+}
