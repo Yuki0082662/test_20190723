@@ -1,4 +1,7 @@
 p{
   font-size: 16px;
-  color: red;
+  color: white;
+}
+body{
+  background:linear-gradient(#05FBFF, #1E00FF);
 }
